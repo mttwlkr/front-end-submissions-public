@@ -99,9 +99,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Express Tutorial](https://github.com/mttwlkr/express-backend/tree/master/public) - All 4
 * [Promise Practice Exercises](https://github.com/mttwlkr/promises-homework/blob/master/promises-homework.js)
 * [House of Vars Blog Post]()
-* [Websockets Tutorial]() - What additional items did you work on?
-* [Pattern Party Repo]()
-* [Pattern Party GitHub Pages]()
+* [Websockets Tutorial](https://github.com/mttwlkr/web-sockets-hw) - What additional items did you work on?
+* [Pattern Party Repo](https://github.com/mttwlkr/pattern-party)
+* [Pattern Party GitHub Pages](https://mttwlkr.github.io/pattern-party/)
 
 ### Michael Gatewood
 
